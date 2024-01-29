@@ -27,3 +27,5 @@ w
 Gapi/api/src/main/java/medi/voll/api/medico/DadosAtualizacaoMedicos.java,d\b\db88b1a9a928a3649a39a7a411d328baf8035a01
 j
 :api/api/src/main/java/medi/voll/api/endereco/Endereco.java,1\a\1acfba0043e3befac08cd836c728534ee9e4aab0
+m
+=api/api/src/main/java/medi/voll/api/medico/Especialidade.java,0\e\0e93c462baabe322932d97bf94aa6cd338da2be6
