@@ -1,3 +1,7 @@
 
-X
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ëé§²Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(™£÷‘øÿÿÿÿ8Ïé§²Õ1
+]	java:S1250"<This block of commented-out lines of code should be removed.(†Ìäƒÿÿÿÿÿ8Ñé§²Õ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ä£À³Õ1
