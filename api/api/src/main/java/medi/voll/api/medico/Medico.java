@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import medi.voll.api.endereco.Endereco;
-import org.springframework.boot.autoconfigure.web.WebProperties;
+
 
 @Table(name = "Medicos")
 @Entity(name = "Medico")
