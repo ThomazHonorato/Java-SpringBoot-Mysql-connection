@@ -7,6 +7,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="SonarLintModuleSettings">
+<<<<<<< Updated upstream
     <option name="uniqueId" value="9b145243-6463-4812-873a-3d51bc84657f" />
+=======
+    <option name="uniqueId" value="74944305-9457-4c12-83d8-03cc1e80acb3" />
+>>>>>>> Stashed changes
   </component>
 </module>
