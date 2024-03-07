@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore SonarLint configuration files
+.sonarlint/
+
+# Ignore SonarLint cache files
+.sonarlint_cache/
