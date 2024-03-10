@@ -17,8 +17,8 @@ public class GlobalExceptionHandler {
         return ResponseEntity.notFound().build();
     }
 
-    @ExceptionHandler({MethodArgumentNotValidException.class, Exception.class})
-    public ResponseEntity tratar400(MethodArgumentNotValidException ex, Exception exc) {
+    @ExceptionHandler(MethodArgumentNotValidException.class)
+    public ResponseEntity tratar400(MethodArgumentNotValidException ex) {
         var erro = ex.getFieldErrors();
         return ResponseEntity.badRequest().body(erro.stream().map(DadosErroValidacao::new).toList());
     }
